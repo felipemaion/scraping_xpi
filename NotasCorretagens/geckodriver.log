@@ -1,0 +1,262 @@
+1551508803583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.DA3tzxmfBDBJ"
+1551508804732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551508804733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551508806798	Marionette	INFO	Listening on port 51400
+1551508806900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1779052942.1551508811, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1779052942.1551508811, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1779052942.1551508811, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+Can't find symbol 'GetGraphicsResetStatus'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1551509058723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.hVCczXGVAqen"
+1551509059339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551509059340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551509061475	Marionette	INFO	Listening on port 51583
+1551509061526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1357418901.1551509066, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1357418901.1551509066, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1357418901.1551509066, line 96: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1551509402088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.3AmjRZM4xFQe"
+1551509402693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551509402693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551509404529	Marionette	INFO	Listening on port 51800
+1551509404577	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551509413903	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.DjryHgxD2jw3"
+1551509414445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551509414445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551509416272	Marionette	INFO	Listening on port 51860
+1551509416305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1204596060.1551509421, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1204596060.1551509421, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1204596060.1551509421, line 96: unreachable code after return statement
+1551509446261	Marionette	INFO	Stopped listening on port 51860
+1551509491208	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.4rA9lJFa1reG"
+1551509491741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551509491742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551509493588	Marionette	INFO	Listening on port 51995
+1551509493675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1274618057.1551509496, line 96: unreachable code after return statement
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1274618057.1551509496, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1274618057.1551509496, line 96: unreachable code after return statement
+1551509524398	Marionette	INFO	Stopped listening on port 51995
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/jquery-2.1.1.min.js, line 14: TypeError: n.ownerDocument.defaultView is null
+1551509539142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.JIojRX3OY0XY"
+1551509539673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551509539673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551509541326	Marionette	INFO	Listening on port 52144
+1551509541413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1961471635.1551509546, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1961471635.1551509546, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1961471635.1551509546, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551510052704	Marionette	INFO	Stopped listening on port 52144
+1551510386752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.r0ieKjC4mnIj"
+1551510387393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551510387394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551510389241	Marionette	INFO	Listening on port 52393
+1551510389358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=327693080.1551510394, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=327693080.1551510394, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx?ReturnUrl=%2facoes-opcoes-futuros%2fnotas-corretagem, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=327693080.1551510394, line 96: unreachable code after return statement
+1551510456183	Marionette	INFO	Stopped listening on port 52393
+1551518275725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.claxT5kKmOiG"
+1551518276867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551518276868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551518279521	Marionette	INFO	Listening on port 55915
+1551518279595	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551518345741	Marionette	INFO	Stopped listening on port 55915
+1551520199835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.IhZ5ZOZWG5PM"
+1551520200892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551520200892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551520202987	Marionette	INFO	Listening on port 63786
+1551520203080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=213224688.1551520209, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=213224688.1551520209, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx?ReturnUrl=%2facoes-opcoes-futuros%2fnotas-corretagem, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=213224688.1551520209, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551520257612	Marionette	INFO	Stopped listening on port 63786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 409: Error: OS.File has been shut down. Rejecting post to stat
+1551520279218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.dbNjofPEJxCQ"
+1551520279804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551520279804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551520281676	Marionette	INFO	Listening on port 64258
+1551520281729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1390622011.1551520287, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1390622011.1551520287, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx?ReturnUrl=%2facoes-opcoes-futuros%2fnotas-corretagem, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1390622011.1551520287, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551520408749	Marionette	INFO	Stopped listening on port 64258
+1551520600883	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.TypzMIx3YUmf"
+1551520601471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551520601471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551520603392	Marionette	INFO	Listening on port 65521
+1551520603412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/bundles/scripts?v=nh79-wCWuC_SiipJcPbx-j30VC7ODqnTFMNpVp02qIs1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://portal.xpi.com.br/ScriptResource.axd?d=KsN2F9I13MKIO0dOHrV78086SWW7VZCZcWhM1X3UeCrS78gU3PivqntrUU39ryXrkT0cnWkc7gYx4G5bQO7ImyrOQGjVXvkQyv50a5q-V8g4h_Pg0&t=397b6a7, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://portal.xpi.com.br/default.aspx?ReturnUrl=%2facoes-opcoes-futuros%2fnotas-corretagem%2fRelatorioPDF%3fdata%3d19%2f02%2f2014%26type%3dxp, line 675: ReferenceError: $ is not defined
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login.min.js?_V=2019-03-02-03-00, line 1: ReferenceError: $ is not defined
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/accordion.js, line 2: ReferenceError: $ is not defined
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 9: ReferenceError: $ is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1320791720.1551520608, line 96: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1551523924137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.DKFHuU9LvidQ"
+1551523925226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551523925226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551523927345	Marionette	INFO	Listening on port 63224
+1551523927393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=410539804.1551523931, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=410539804.1551523931, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx?ReturnUrl=%2facoes-opcoes-futuros%2fnotas-corretagem%2fRelatorioPDF%3fdata%3d19%2f02%2f2014%26type%3dxp, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=410539804.1551523931, line 96: unreachable code after return statement
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=410539804.1551523931, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://portal.xpi.com.br/default.aspx, line 1: unreachable code after return statement
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551524045722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dt/1fwt927d2_1bmp7f6yq0bhxw0000gp/T/rust_mozprofile.SK2pnwPItSQz"
+1551524046517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551524046518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551524048443	Marionette	INFO	Listening on port 63922
+1551524048548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1155953699.1551524052, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript error: https://portal.xpi.com.br/xpi/scripts/login/new-login-cs.js, line 60: ReferenceError: showBannerMobile is not defined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1155953699.1551524052, line 96: unreachable code after return statement
+JavaScript warning: https://portal.xpi.com.br/default.aspx?ReturnUrl=%2facoes-opcoes-futuros%2fnotas-corretagem%2fRelatorioPDF%3fdata%3d19%2f02%2f2014%26type%3dxp, line 1: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WTDNLDV&cid=1155953699.1551524052, line 96: unreachable code after return statement
+JavaScript warning: https://www.xpi.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=5255662, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2380, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
